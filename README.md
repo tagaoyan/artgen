@@ -44,3 +44,7 @@ Tags are specified in this syntax:
     used as hint string.
 -   `{=foobar}` renders only `<output>` tag, for strings that should be
     consistent with other parts.
+
+## Examples
+
+- [Haha Generator](https://tagaoyan.github.io/artgen/)
