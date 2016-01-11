@@ -1,7 +1,7 @@
 artgen.py
 ==========
 
-Generator an article generator.
+Generator of article generators.
 
 ## Requirements
 
